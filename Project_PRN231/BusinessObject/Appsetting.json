@@ -1,0 +1,6 @@
+{
+
+  "ConnectionStrings": {
+    "DefaultConnection": "server =(local); database = Project_PRN231;uid=sa;pwd=123;Trusted_Connection=True;Encrypt=False"
+  }
+}
